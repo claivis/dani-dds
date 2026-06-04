@@ -1,0 +1,22 @@
+name: dani_dds
+description: dani Design System (DDS) — runtime skin engine, design tokens, theme. Shared by dani.go and dani.scout.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.10.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
