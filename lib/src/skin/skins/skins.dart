@@ -9,3 +9,4 @@ export 'voyager_skin.dart';
 export 'atlas_skin.dart';
 export 'acid_skin.dart';
 export 'curator_skin.dart';
+export 'scout_skin.dart';

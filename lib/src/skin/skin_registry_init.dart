@@ -14,4 +14,5 @@ void initializeSkinRegistry() {
   SkinRegistry.register(const AtlasSkin());
   SkinRegistry.register(const AcidSkin());
   SkinRegistry.register(const CuratorSkin());
+  SkinRegistry.register(const ScoutSkin());
 }

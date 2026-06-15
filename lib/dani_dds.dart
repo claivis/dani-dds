@@ -47,6 +47,7 @@ export 'src/skin/skins/gemini_skin.dart';
 export 'src/skin/skins/midnight_skin.dart';
 export 'src/skin/skins/neon_skin.dart';
 export 'src/skin/skins/paper_skin.dart';
+export 'src/skin/skins/scout_skin.dart';
 export 'src/skin/skins/skins.dart';
 export 'src/skin/skins/tokyo_pop_skin.dart';
 export 'src/skin/skins/voyager_skin.dart';
